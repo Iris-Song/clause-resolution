@@ -1,1 +1,1 @@
-# clause-resolution
+# clause resolution
